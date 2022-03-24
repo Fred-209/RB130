@@ -1,0 +1,27 @@
+{
+  "Minitest": {
+    "coverage": {
+      "/home/elmachine/projects/RB130/exercises/medium_2/text.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1647980618
+  }
+}
